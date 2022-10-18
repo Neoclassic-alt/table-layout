@@ -8,3 +8,4 @@ table {
     white-space: nowrap;
 }
 ```
+Сайт доступен по адресу https://neoclassic-alt.github.io/table-layout/
